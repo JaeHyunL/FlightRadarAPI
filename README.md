@@ -1,4 +1,4 @@
-# FlightRadarAPI
+# FlightRadarAPI 항공기 조회, 추적 API
 Unofficial API for [FlightRadar24](https://www.flightradar24.com/) written in Python 3.
 
 If you want to use the data collected using this API commercially, you need to subscribe to the [Business plan](https://www.flightradar24.com/premium/).</br>
